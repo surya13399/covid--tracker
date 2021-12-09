@@ -1,6 +1,5 @@
 {
   "name": "covid-tracker",
-  "homepage": "https://avijeetpandey.github.io/covid-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
